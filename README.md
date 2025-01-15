@@ -1,4 +1,8 @@
-## Hi there 👋
+## Howdy! 👋🤠
+I'm Joshua Askharoun, but here I go by Yoshi! I study Multidisciplinary Engineering Technology with a focus on mechatronics at Texas A&M University.
+
+## Support
+- [**Donations**](https://josh.askharoun.com/donate)
 
 <!--
 **yoshiask/yoshiask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
