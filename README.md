@@ -1,5 +1,5 @@
 ## Howdy! 👋🤠
-I'm Joshua Askharoun, but here I go by Yoshi! I study Multidisciplinary Engineering Technology with a focus on mechatronics at Texas A&M University.
+I'm Joshua Askharoun, but here I go by Yoshi. I am the loudest and proudest member of the Fightin' Texas Aggie Class of 2025! I have a B.S. in Multidisciplinary Engineering Technology with a Mechatronics focus and minor in Embedded Systems from Texas A&M University.
 
 ## Support
 - [**Donations**](https://josh.askharoun.com/donate)
